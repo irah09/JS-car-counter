@@ -1,5 +1,5 @@
 body {
-  background-image: url("/PassengerCounter/cars.jpg");
+  background-image: url("cars.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   font-family: "Open Sans", "Helvetica Neue", sans-serif;
